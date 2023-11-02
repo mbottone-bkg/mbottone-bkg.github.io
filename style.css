@@ -1,7 +1,10 @@
 body{
-    background-color: red;
+    background-color: navy;
 }
 h1{
     color:#fff;
     text-align: center;
+}
+p{
+    color: lightblue;
 }
