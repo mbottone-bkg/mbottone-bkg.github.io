@@ -5,6 +5,10 @@ h1{
     color:#fff;
     text-align: center;
 }
+h2{
+    color:red;
+    text-decoration:underline;
+}
 p{
     color: lightblue;
 }
